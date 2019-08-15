@@ -1,1 +1,2 @@
-Some added content in test file
+Some content for test
+Additional content
