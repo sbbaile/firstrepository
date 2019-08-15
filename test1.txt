@@ -3,3 +3,6 @@ Additional content
 MIDDLE CONTENT
 Even more to see diff from add
 Another addition
+
+
+Addition in GitHub
