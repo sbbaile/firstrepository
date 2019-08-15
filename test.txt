@@ -1,4 +1,5 @@
 Some content for test
 Additional content
+MIDDLE CONTENT
 Even more to see diff from add
 Another addition
